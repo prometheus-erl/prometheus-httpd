@@ -15,7 +15,7 @@
     {description, "Expose Prometheus metrics using inets httpd."},
     {licenses, ["MIT"]},
     {links, [
-        {"Github", "https://github.com/prometheus-erl/prometheus.erl"},
+        {"Github", "https://github.com/prometheus-erl/prometheus-httpd"},
         {"Hex.pm", "https://hex.pm/packages/prometheus_httpd"},
         {"Beam Dashboards", "https://github.com/prometheus-erl/beam-dashboards"},
         {"Prometheus", "https://hex.pm/packages/prometheus"},
